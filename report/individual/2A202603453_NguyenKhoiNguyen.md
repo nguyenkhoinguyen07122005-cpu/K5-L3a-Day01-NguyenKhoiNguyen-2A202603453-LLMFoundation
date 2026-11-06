@@ -1,9 +1,8 @@
 # Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
-> Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
 
 - **MSSV:2A202603453
-- **Họ và tên:Nguyễn Khôi Nguyên
+- **Họ và tên:Nguyễn Khôi Nguyên**
 - **SEED** (in ở ô đầu notebook): 2518
 
 ## 1. Bằng chứng
